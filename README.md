@@ -1,16 +1,20 @@
-# first_app
+# Flutter
 
-A new Flutter project.
+Hello this first program in *Flutter* check out [this section] (https://www.pioneersacademy.com/)
+***Language***
+- 🇺🇸 English
 
-## Getting Started
-## Hussien Almalki
-This project is a starting point for a Flutter application.
+- mani.dart
+```bash
+import 'package:flutter/material.dart';
+import 'myHomePage.dart';
+import 'app.dart';
 
-A few resources to get you started if this is your first Flutter project:
+//void main() {
+//  runApp(const MyApp());
+//}
+void main() => runApp(const MyApp());
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
